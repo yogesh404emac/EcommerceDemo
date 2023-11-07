@@ -15,7 +15,7 @@ struct Product:Identifiable{
 }
 
 var ProductList = [
-    Product(name: "Engagement rings for couples", image: "engagementring", price: 200),
+    Product(name: "Engagement rings for couples", image: "engagementringsforcouples", price: 200),
     Product(name: "Diamond valko", image: "dimavalkov", price: 36),
     Product(name: "Sand ", image: "image-3", price: 56),
     Product(name: "Sea ", image: "image-4", price: 87),
@@ -23,8 +23,8 @@ var ProductList = [
     Product(name: "Hand bracelet", image: "kagana", price: 77),
     Product(name: "Gray ", image: "image-7", price: 97),
     Product(name: "Mink ", image: "image-8", price: 90),
-    Product(name: "Necklace chain ", image: "engagementring", price: 90),
-    Product(name: "Engagement ring ", image: "engagemen", price: 90),
+    Product(name: "Necklace chain ", image: "Necklace", price: 90),
+    Product(name: "Engagement ring ", image: "engagementring", price: 90),
     Product(name: "Necklace ", image: "image-2", price: 90),
     Product(name: "Necklace ", image: "image-6", price: 90),
     Product(name: "Necklace ", image: "image-5", price: 90),
